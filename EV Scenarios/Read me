@@ -1,0 +1,8 @@
+This folder includes different scenarios regarding the EV characteristics.
+Specifically, each file includes:
+  Car_battery (MW): the battery cappacity
+  Car_charger (MWh): the maximum charging power (as given by the company)
+  RTE: The Round-Trip_Efficiency
+  SoC: The State-of-Charge when the EV arrives
+  EV load (kWh): 
+  Remaining time: 
