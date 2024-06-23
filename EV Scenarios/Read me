@@ -1,4 +1,4 @@
 This folder includes different scenarios regarding the EV characteristics.
 
-Each scenario includes 108 EVs, while for each EV is given the capacity, the State-of-Charge when it is plugged in and the arrival.
-Please note that the arrival refers to the number of quarter after 12:00 AM. For example when Arrival is 1 it means that the time of arrival is 12:15
+Each scenario includes 108 EVs, with each EV having specified capacity, State-of-Charge at plug-in, and arrival time. 
+Please note that the arrival time is given as the number of quarters after 12:00 AM. For example, if the arrival time is 1, it means the arrival time is 12:15 AM.
